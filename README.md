@@ -35,6 +35,7 @@
 ## 🛠️ Steps to Run the Application  
 
 ### 🚀 Start the Server  
-1. Install dependencies:  
-   ```sh
    npm install
+
+### 🚀 Run Test Cases  
+  npm run test
