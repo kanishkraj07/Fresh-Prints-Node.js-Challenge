@@ -26,7 +26,7 @@ orderRouter.post('/check', (req: Request, res: Response) => {
 
 orderRouter.post("/cost", (req: Request, res: Response) => {
     const { items }: OrderRequest = req.body;
-    if (!Array.isArray(items)) {
+    if (!items || !Array.isArray(items)) {
         res.status(400).json({
             message: 'Incorrect order details'
         });

@@ -15,4 +15,4 @@ app.use((error, req, res, next) => {
         message: 'Internal Server Error'
     });
 });
-app.listen(3000);
+exports.default = app;
