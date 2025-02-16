@@ -1,4 +1,4 @@
-# 🛍️ Apparel Stock Management - REST API (Node.js + TypeScript)  
+# 🛍️ Apparel Stock Management - REST API (Node.js + TypeScript) - Fresh Prints Assignment By Kanishk Mogalraj 
 
 ## 📌 Project Overview  
 - Developed a **REST API** using **Node.js with TypeScript**.  
